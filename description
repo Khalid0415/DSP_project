@@ -1,0 +1,12 @@
+This project is part of the Data Science Programming course
+and focuses on applying various programming techniques to a dataset using Python.
+
+Key components include:
+	•	Data analysis with Pandas
+	•	Data preprocessing such as cleaning and transformation
+	•	Handling JSON files for structured data extraction
+	•	Using multi-processing to improve performance on heavy tasks
+	•	Implementing web crawling to automatically collect data from the web
+
+The goal is to integrate multiple data processing techniques
+to perform efficient and effective analysis.
